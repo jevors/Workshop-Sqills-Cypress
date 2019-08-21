@@ -1,26 +1,17 @@
-- Forked from git@github.com:codyseibert/tab-tracker.git
-- run `npm start` in website folder to view documentation for the workshop 
+- Forked from https://github.com/xebia/cypress-meetup-2018.git
 
 
-
-# Tab Tracker
-A Vue.js / Express.js web application for keeping track of guitar tabs
+# Album Tracker
+A Vue.js / Express.js web application for keeping track of albums
 
 # Setup
 
-You need to have Node Js installed: https://nodejs.org/en/
-
+You need to have Node Js installed: https://nodejs.org/en/  
 You must at least have **NODE version 8.2.1**
 
-Don't know how to install different version of node?  Try this: https://github.com/tj/n
-
-I suggest you install the following that I use in the video:
-
-VSCode: https://code.visualstudio.com/
-
-ITerm2: https://www.iterm2.com/ (Mac Only)
-
-Git: https://git-scm.com/
+Credentials for the TabTracker:  
+user: `testing@gmail.com`  
+password: `12345678`  
 
 ### Client - Terminal A
 ```
